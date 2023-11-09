@@ -1,27 +1,34 @@
-# AR Simple Portal
+# Climate Awareness AR Project
 
-![appIcon_180](https://user-images.githubusercontent.com/66309582/150238408-1977a1d1-b919-4d0b-80ba-4b9b2b5fee51.png)
+## Introduction
 
-This is a minimal AR Portal app that uses the RealityKit's occlusion materials to hide the inner space.
+The primary goal of this project is to raise awareness about the climate crisis. To achieve this objective, we have decided to employ Augmented Reality (AR) technology. Our main aim is to educate individuals and bring to life what the future might look like in the face of this crisis. Currently, we are using the AI-based Skybox method to visualize the temporary environment, but our ultimate vision is to show the current news and the environmental impacts of each product. Users will be able to click on items and experience the real-time CO2 data.
 
-- Xcode 13.2.1
-- Target: iOS / iPadOS 14.0+
+## Hackathon Entry
 
-Let's use Reality Composer to create your inner AR space and replace the rcproject file in the Xcode project. Then you have your own AR Potal app!
+We have entered this project in the Technology for Sustainability Hackathon, where we aim to showcase the potential of technology in addressing sustainability challenges. As part of our participation, we have created this README on our GitHub account to provide an overview of our project and its objectives.
 
-This project is explained in the articles below.
+## Usage
 
-- [Medium (English)](https://atarayosd.medium.com/creating-an-ios-ar-portal-app-using-occlusion-materials-782ee0c58b65)
-- [Qiita (Japanese)](https://qiita.com/AtarayoSD/items/9be6892879c73a126bca)
+To experience our Climate Awareness AR Project, follow these steps:
 
-Three 3d scenes are bundled. Thank you for sharing great HDRI textures.
+1. Install the AR application on your compatible device.
+2. Launch the application and point your device's camera at the designated area.
+3. Use the AR interface to click on various products and explore their associated news and environmental impacts. (still working)
+4. Interact with the AR elements to learn more about the current CO2 data. (still working)
 
-- [Sergej Majboroda](https://polyhaven.com/all?a=Sergej%20Majboroda)
-- [Greg Zaal](https://polyhaven.com/all?a=Greg%20Zaal)
+## Contribution
 
-![portal_1](https://user-images.githubusercontent.com/66309582/150238470-9a5dd4f9-f82b-4fe0-8de3-2cf59b3b79e1.png)
-![portal_2](https://user-images.githubusercontent.com/66309582/150238610-fa2f0fa9-69b1-42d2-943c-6ebfc9d335ba.png)
-![portal_3](https://user-images.githubusercontent.com/66309582/150238668-9c4325bb-4ecd-4c1c-9ff7-8c3f221ae5cc.png)
+We welcome contributions from developers, designers, and anyone passionate about climate awareness and AR technology. If you'd like to get involved in our project, please follow the guidelines in our file
 
-![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
+## Support
 
+If you encounter any issues or have questions, please don't hesitate on our GitHub repository. We appreciate your feedback and are eager to make this project even better.
+
+## License
+
+Feel free to use, modify, and distribute our code as long as you provide proper attribution and adhere to the terms outlined in the license.
+
+## Acknowledgments
+
+We would like to express our gratitude to everyone who has contributed to this project and supported our mission to raise awareness about the climate crisis through Augmented Reality. Together, we can make a difference.
